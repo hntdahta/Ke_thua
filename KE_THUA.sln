@@ -5,11 +5,13 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "He_cac_doi_tuong_hinh_hoc", "He_cac_doi_tuong_hinh_hoc\He_cac_doi_tuong_hinh_hoc.csproj", "{ED806EC7-2C06-4065-9135-BD688D2AF274}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circle_va_Cylinder", "Circle_va_Cylinder\Circle_va_Cylinder.csproj", "{F379B88D-FBAA-48AF-A9B3-70104B8598F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Circle_va_Cylinder", "Circle_va_Cylinder\Circle_va_Cylinder.csproj", "{F379B88D-FBAA-48AF-A9B3-70104B8598F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point2D_va_Point3D", "Point2D_va_Point3D\Point2D_va_Point3D.csproj", "{4287C337-B17D-4112-B861-8C0DED2AF655}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Point2D_va_Point3D", "Point2D_va_Point3D\Point2D_va_Point3D.csproj", "{4287C337-B17D-4112-B861-8C0DED2AF655}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point_va_MovablePoint", "Point_va_MovablePoint\Point_va_MovablePoint.csproj", "{E3315B4A-669D-4F2D-8542-3F7FFF512678}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Point_va_MovablePoint", "Point_va_MovablePoint\Point_va_MovablePoint.csproj", "{E3315B4A-669D-4F2D-8542-3F7FFF512678}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "Triangle\Triangle.csproj", "{8A8428DB-AC81-4D35-BF76-98F70706E87E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{E3315B4A-669D-4F2D-8542-3F7FFF512678}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3315B4A-669D-4F2D-8542-3F7FFF512678}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3315B4A-669D-4F2D-8542-3F7FFF512678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A8428DB-AC81-4D35-BF76-98F70706E87E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A8428DB-AC81-4D35-BF76-98F70706E87E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A8428DB-AC81-4D35-BF76-98F70706E87E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A8428DB-AC81-4D35-BF76-98F70706E87E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
